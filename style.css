@@ -1,0 +1,50 @@
+body {
+    background: #f06d06;
+    font-size: 15px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3.5em;
+    font-family: system-ui;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+#Sus_inicios {
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#lahistoria {
+
+    font-style: italic;
+}
+
+#Los_monjes_Shaolin {
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#los_monjes {
+
+    font-style: italic;
+}
+
+#La_Calistenia_como_disciplina {
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#disciplina {
+    font-style: italic;
+}
+
+.tabla-1 {
+    background: rgb(250, 30, 10)
+}
